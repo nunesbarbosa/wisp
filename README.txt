@@ -1,1 +1,0 @@
-Hi! This is the new Wisp GIT Repo. If you don't have any business in here, get the f* off!
